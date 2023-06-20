@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXv7peYu85kqY7yIUkHtOfwAAAAACAAAAAAAQZgAAAAEAACAAAAB3iaXSfqt44hDUleFiMBbE4Na7rFim9ikhj/iBC4I3YQAAAAAOgAAAAAIAACAAAAD309/cpDkOtjC6fuaxFiPTws9TCHo2KftjVFjpsK7Re4AAAAAfAvynfdIfqxYToo8bNC3Y8tZq+5wwVTB9MQvO1E/W7FqKh7EzGKfiLitmOjo7UPbF8s1aBaT4KL7tydmfK6M+fwdj49XJ9BNzMrA1f6VFKFjE5Oz1VjbeNg0ut7FbKMm1LIZmvq2NTWk7snbddkXe8MZFgskw3oigQqbnZCe4A0AAAABT8/V2fssMgd/o0bzHXetw7H1SnrZDJfZS6oFgwO4bMJGEvAVU0tN9hfkAVadzU0lwz5P2fXAzk0g+Wt6d0Lcs</EncryptedPassword>
+    <History>True|2023-06-20T12:50:43.1655533Z;True|2023-06-20T18:13:40.6818238+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="CMSConnectionString">
+      <Value>Data Source=k13sqlserver.database.windows.net,1433%3bInitial Catalog=K13%3bUser ID=k13%3bPassword=Abcd%401121</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
